@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>USSUS MED | Scan Ladder Clinical Resource Center</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f9;
+      margin: 0;
+      color: #222;
+    }
+
+    header {
+      background: #0b5ea8;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin-bottom: 10px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 18px;
+      margin: 14px 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+
+    .card h2 {
+      margin-top: 0;
+    }
+
+    .button {
+      display: inline-block;
+      background: #0b5ea8;
+      color: white;
+      text-decoration: none;
+      padding: 12px 18px;
+      border-radius: 8px;
+      font-weight: bold;
+      margin-top: 8px;
+    }
+
+    .button:hover {
+      background: #084a85;
+    }
+
+    .contact-box {
+      background: #eaf3fb;
+      border-left: 5px solid #0b5ea8;
+    }
+
+    footer {
+      text-align: center;
+      color: #666;
+      padding: 30px 20px;
+      font-size: 14px;
+    }
+
+    .small {
+      color: #666;
+    }
+
+    .whatsapp {
+      position: fixed;
+      right: 18px;
+      bottom: 18px;
+      background: #25D366;
+      color: white;
+      padding: 14px 18px;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: bold;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Scan Ladder Clinical Resource Center</h1>
+    <p>Official Resources • Clinical Videos • CAD Libraries • Compatibility</p>
+    <p><strong>USSUS MED</strong></p>
+  </header>
+
+  <div class="container">
+
+    <div class="card">
+      <h2>🎥 Introduction to Scan Ladder</h2>
+      <p>Discover what Scan Ladder is and why it improves full-arch implant workflows.</p>
+      <a class="button" href="https://youtu.be/ykr4xNzfCWI?si=w2ljGH4VHPGYwv3L" target="_blank">Watch Video</a>
+    </div>
+
+    <div class="card">
+      <h2>🧠 How Scan Ladder Works</h2>
+      <p>Understand the principle behind Scan Ladder and its role in full-arch digital impressions.</p>
+      <a class="button" href="https://www.scanladder.com/pages/how-it-works" target="_blank">Open Guide</a>
+    </div>
+
+    <div class="card">
+      <h2>📖 Scanning Protocol & Instructions</h2>
+      <p>Step-by-step scanning instructions for accurate and repeatable clinical results.</p>
+      <a class="button" href="https://www.scanladder.com/pages/scanning-instructions" target="_blank">View Instructions</a>
+    </div>
+
+    <div class="card">
+      <h2>💻 CAD Libraries</h2>
+      <p>Download the required CAD libraries for digital design workflows.</p>
+      <a class="button" href="https://www.scanladder.com/pages/cad-library" target="_blank">Download Libraries</a>
+    </div>
+
+    <div class="card">
+      <h2>🔩 Implant Compatibility</h2>
+      <p>Check Scan Ladder compatibility with different implant systems and platforms.</p>
+      <a class="button" href="https://www.scanladder.com/pages/compatibility" target="_blank">Check Compatibility</a>
+    </div>
+
+    <div class="card">
+      <h2>⚖️ Scan Ladder vs TissueSync™</h2>
+      <p>Understand the difference between Scan Ladder and TissueSync™ and when each is used.</p>
+      <a class="button" href="https://youtu.be/5D5N6ekkO6o?si=ZeB4W8HxtSZ2nir2" target="_blank">Watch Comparison</a>
+    </div>
+
+    <div class="card">
+      <h2>🦷 GuideLock™ Workflow</h2>
+      <p>Learn how GuideLock™ supports guided surgery and digital full-arch workflows.</p>
+      <a class="button" href="https://youtu.be/g9ctND2jF9A?si=em_wk9MRz53kTAj_" target="_blank">Watch Guide</a>
+    </div>
+
+    <div class="card">
+      <h2>💡 Tips & Recommendations</h2>
+      <p>Clinical tips and best practices for getting the best results with Scan Ladder.</p>
+      <a class="button" href="https://youtu.be/gghvfHzDL2g?si=_r8BMHx4L0lIP-uv" target="_blank">Watch Tips</a>
+    </div>
+
+    <div class="card">
+      <h2>📦 What's Included in the Scan Ladder Kit?</h2>
+      <p>See the components included in the Scan Ladder kit and how they are used.</p>
+      <a class="button" href="https://youtu.be/ZXnCHgVDzBA?si=nrxRvmnxV0wmp94I" target="_blank">View Kit Contents</a>
+    </div>
+
+    <div class="card contact-box">
+      <h2>📞 Contact USSUS MED</h2>
+      <p class="small">For Scan Ladder demos, technical support, pricing, and availability.</p>
+      <p><strong>Phone / WhatsApp:</strong> <a href="https://wa.me/971502768276" target="_blank">+971 50 276 8276</a></p>
+      <p><strong>Email:</strong> <a href="mailto:sales@ussusmed.com">sales@ussusmed.com</a></p>
+    </div>
+
+  </div>
+
+  <a class="whatsapp" href="https://wa.me/971502768276" target="_blank">
+    WhatsApp Us
+  </a>
+
+  <footer>
+    © USSUS MED • Scan Ladder Clinical Resource Center
+  </footer>
+
+</body>
+</html>
